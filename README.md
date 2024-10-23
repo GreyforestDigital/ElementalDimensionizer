@@ -1,7 +1,7 @@
 # Elemental Dimensionizer
 A small jQuery-based function for transforming elements in multiple dimensions based on cursor position.
 
-VIEW DEMO: https://greyforestmedia.github.io/ElementalDimensionizer/
+VIEW DEMO: https://greyforestdigital.github.io/ElementalDimensionizer/
 
 ![Demonstration](/media/GreyforestElementalDimensionizer.gif)
 
